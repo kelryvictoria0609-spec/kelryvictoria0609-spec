@@ -1,31 +1,37 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,35:2563EB,70:06B6D4,100:8B5CF6&height=220&section=header&text=Kelry%20Victoria&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Desenvolvedora%20de%20Sistemas%20%E2%80%A2%20Tecnologia%20na%20Educa%C3%A7%C3%A3o&descSize=18&descAlignY=56" /> <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1E5B,25:1D4ED8,50:0EA5E9,75:8B5CF6,100:EC4899&height=260&section=header&text=Kelry%20Victoria&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Desenvolvedora%20de%20Sistemas%20%E2%80%A2%20Tecnologia%20na%20Educa%C3%A7%C3%A3o&descSize=20&descAlignY=60&stroke=38BDF8&strokeWidth=1" /> <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=700&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Ol%C3%A1%2C+eu+sou+a+Kelry!+%F0%9F%91%8B;Desenvolvedora+de+Sistemas+%F0%9F%92%BB;Estagi%C3%A1ria+de+TI+Educacional+%F0%9F%8F%AB;Criadora+de+jogos+educativos+%F0%9F%8E%AE;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=34&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Ol%C3%A1%2C+eu+sou+a+Kelry!+%F0%9F%91%8B;Bem-vindo+ao+meu+GitHub!+%F0%9F%92%99" alt="Typing SVG" /></a> <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=600&color=F472B6&center=true&vCenter=true&width=700&height=40&lines=%3E+Desenvolvedora+de+Sistemas+%F0%9F%92%BB;%3E+Estagi%C3%A1ria+de+TI+Educacional+%F0%9F%8F%AB;%3E+Criadora+de+jogos+educativos+%F0%9F%8E%AE;%3E+Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<br>
+<br><br>
 
-<a href="https://www.linkedin.com/in/kelry-victoria-calixto-a156232b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:kelry.victoria0609@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://kelryvictoria0609-spec.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <img src="https://komarev.com/ghpvc/?username=kelryvictoria0609-spec&label=Visitas&color=8B5CF6&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/kelry-victoria-calixto-a156232b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1E5B" /></a> <a href="mailto:kelry.victoria0609@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://kelryvictoria0609-spec.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://sistemasv2.fazendariogrande.pr.gov.br/biblioteca-frg/"><img src="https://img.shields.io/badge/Biblioteca%20SME--FRG-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 
-</div> <br>
+<img src="https://komarev.com/ghpvc/?username=kelryvictoria0609-spec&label=Visitas%20no%20perfil&color=EC4899&style=for-the-badge" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,33:0EA5E9,66:8B5CF6,100:EC4899&height=4" />
 👩‍💻 Sobre mim
+<table> <tr> <td width="60%">
 🎓 Estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas
 🏫 Estagiária no DTIE da Secretaria Municipal de Educação de Fazenda Rio Grande
-📚 Desenvolvi a Biblioteca Digital SME-FRG, sistema web em uso pelos professores da rede
+📚 Desenvolvi a Biblioteca Digital SME-FRG, em uso pelos professores da rede
 🎮 Crio jogos digitais educativos para as escolas municipais
 🌱 Aprendendo cada dia mais sobre Java, Spring Boot e PHP
 💬 Pode falar comigo sobre tecnologia na educação, web e jogos
 ⚡ Curiosidade: gosto de entender como as coisas funcionam por dentro
+</td> <td width="40%" align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=400&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=260&height=150&lines=const+kelry+%3D+%7B;stack%3A+%5B%22Java%22%2C+%22PHP%22%5D%2C;aprendendo%3A+true%2C;cafe%3A+true;%7D" alt="Código" /> </td> </tr> </table> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,33:8B5CF6,66:0EA5E9,100:1D4ED8&height=4" />
 🛠️ Tecnologias e ferramentas
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,php,py,js,html,css,mysql&perline=8" /> <br><br> <img src="https://skillicons.dev/icons?i=unity,git,github,gitlab,vscode,idea&perline=8" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,php,py,js,html,css,mysql&perline=8&theme=dark" /> <br><br> <img src="https://skillicons.dev/icons?i=unity,git,github,gitlab,vscode,idea&perline=8&theme=dark" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,33:0EA5E9,66:8B5CF6,100:EC4899&height=4" />
 🚀 Projeto em destaque
-<div align="center">
-📚 Biblioteca Digital SME-FRG
+<div align="center"> <a href="https://sistemasv2.fazendariogrande.pr.gov.br/biblioteca-frg/"> <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1E5B,50:1D4ED8,100:0EA5E9&height=150&text=%F0%9F%93%9A%20Biblioteca%20Digital%20SME-FRG&fontSize=36&fontColor=FFFFFF&animation=fadeIn&desc=Sistema%20web%20em%20uso%20pela%20rede%20municipal%20de%20Fazenda%20Rio%20Grande&descSize=16&descAlignY=72&fontAlignY=42" /> </a>
+
 Sistema web de biblioteca digital para os professores da rede municipal de Fazenda Rio Grande, hoje em uso no servidor da prefeitura. Criei o protótipo em Python e migrei o backend para PHP para atender ao servidor institucional.
+
 Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem
-</div>
+
+<a href="https://sistemasv2.fazendariogrande.pr.gov.br/biblioteca-frg/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Acessar%20o%20site-0EA5E9?style=for-the-badge&labelColor=0B1E5B" height="40" /></a>
+
+</div> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,33:8B5CF6,66:0EA5E9,100:1D4ED8&height=4" />
 📊 Estatísticas
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelryvictoria0609-spec&theme=tokyonight" width="100%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kelryvictoria0609-spec&theme=tokyonight" height="170" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelryvictoria0609-spec&theme=tokyonight" height="170" /> </div>
-🟦 Contribuições em 3D
-<div align="center"> <img src="https://raw.githubusercontent.com/kelryvictoria0609-spec/kelryvictoria0609-spec/main/profile-3d-contrib/profile-night-view.svg" width="100%" /> </div>
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelryvictoria0609-spec&theme=tokyonight" width="100%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kelryvictoria0609-spec&theme=tokyonight" height="170" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelryvictoria0609-spec&theme=tokyonight" height="170" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,33:0EA5E9,66:8B5CF6,100:EC4899&height=4" />
+🌈 Contribuições em 3D
+<div align="center"> <img src="https://raw.githubusercontent.com/kelryvictoria0609-spec/kelryvictoria0609-spec/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" /> </div>
 👾 Pac-Man das contribuições
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kelryvictoria0609-spec/kelryvictoria0609-spec/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kelryvictoria0609-spec/kelryvictoria0609-spec/output/pacman-contribution-graph.svg"> <img alt="Pac-Man comendo minhas contribuições" src="https://raw.githubusercontent.com/kelryvictoria0609-spec/kelryvictoria0609-spec/output/pacman-contribution-graph.svg"> </picture> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,35:06B6D4,70:2563EB,100:1E3A8A&height=120&section=footer&animation=twinkling" />
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kelryvictoria0609-spec/kelryvictoria0609-spec/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kelryvictoria0609-spec/kelryvictoria0609-spec/output/pacman-contribution-graph.svg"> <img alt="Pac-Man comendo minhas contribuições" src="https://raw.githubusercontent.com/kelryvictoria0609-spec/kelryvictoria0609-spec/output/pacman-contribution-graph.svg"> </picture> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&height=50&lines=Obrigada+pela+visita!+%F0%9F%92%99%F0%9F%92%9C%F0%9F%A9%B7" alt="Obrigada" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,25:8B5CF6,50:0EA5E9,75:1D4ED8,100:0B1E5B&height=140&section=footer&animation=twinkling" />
