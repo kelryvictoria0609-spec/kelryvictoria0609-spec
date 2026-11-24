@@ -21,9 +21,11 @@
 🚀 Projeto em destaque
 <div align="center"> <a href="https://sistemasv2.fazendariogrande.pr.gov.br/biblioteca-frg/"> <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,40:1D4ED8,100:38BDF8&height=150&text=%F0%9F%93%9A%20Biblioteca%20Digital%20SME-FRG&fontSize=36&fontColor=FFFFFF&animation=fadeIn&desc=Sistema%20web%20em%20uso%20pela%20rede%20municipal%20de%20Fazenda%20Rio%20Grande&descSize=16&descAlignY=72&fontAlignY=42" /> </a>
 
+<br><br> <a href="https://sistemasv2.fazendariogrande.pr.gov.br/biblioteca-frg/"><img src="https://github.com/user-attachments/assets/61bcf4eb-e97f-489a-9267-985370fb672b" width="90%" /></a> <br><br>
+
 Sistema web de biblioteca digital para os professores da rede municipal de Fazenda Rio Grande, hoje em uso no servidor da prefeitura. Desenvolvi o protótipo em Python e adaptei o sistema para funcionar no servidor institucional.
 
-Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem
+<img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/HTML-2563EB?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-0EA5E9?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-38BDF8?style=for-the-badge&logo=javascript&logoColor=white" />
 
 <a href="https://sistemasv2.fazendariogrande.pr.gov.br/biblioteca-frg/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Acessar%20o%20site-0EA5E9?style=for-the-badge&labelColor=0B1E5B" height="40" /></a>
 
